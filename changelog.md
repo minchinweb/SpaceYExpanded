@@ -1,3 +1,6 @@
+THIS IS THE OLD CHANGELOG FROM  zer0Kerbal 
+ALL NEW CHANGES ARE IN THE Changelog-LGG.txt file
+
 # Changelog  
   
 | modName    | SpaceY Expanded (SYX) by NecroBones                               |

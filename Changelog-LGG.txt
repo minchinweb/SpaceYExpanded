@@ -44,3 +44,7 @@ Changelog
 		Updated CryoEngines config. Penguin series engines stop being dual-mode and become purebred Hydrolox engines.
 		Added VAB Organizer support.
 		Fixed bulkhead profile mismatches.	
+
+2.0.2
+	Fixed the CryoEngine patch for the 3 penguin engines to show plumes
+	Added support for Waterfall with a patch for the engines
